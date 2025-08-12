@@ -4,7 +4,7 @@ Testing several recent ASR systems against multilingual regional news broadcasts
 ## Languages and stations tested
 
 | No. | Language      | Station            | Duration (h:m) | Total (per lg) |
-| --- | :------------ | :----------------- | -------------- | -------------- |
+| :--- | :------------ | :----------------- | :-------------- | :-------------- |
 | 1   | Assamese      | Dibrugarh          | 1:22           | 2:43           |
 |     |               | Guwahati           | 1:20           |                |
 | 2   | Bengali       | Agartala           | 1:20           | 5:58           |
