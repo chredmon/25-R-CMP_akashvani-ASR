@@ -1,4 +1,4 @@
-# Transformer-based automatic speech recognition performance on Indian news bulletins in 26 languages
+# Transformer-based speech recognition performance on Indian news bulletins in 26 languages
 
 Charles Redmon  
 2025-08-12  
