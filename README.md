@@ -61,3 +61,21 @@ Testing several recent ASR systems against multilingual regional news broadcasts
 |      | Hyderabad |
 |      | Srinagar |
 
+
+## Models
+
+The following models were tested to cover both some of the most accurate 
+multilingual ASR models to date and to cover several of the key interfaces 
+to most devices (i.e., Google, Apple, Microsoft, Amazon). Further, AI4Bharat's 
+Conformer model is used as a benchmark for comparison which is specialised in 
+Indic languages.
+
+- AI4Bharat (IndicConformer)
+- OpenAI (GPT-4o-mini, Whisper)
+- Elevenlabs (Scribe)
+- Google (Chirp)
+- Microsoft (Azure)
+- Apple
+- Amazon
+
+
