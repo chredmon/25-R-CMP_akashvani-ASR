@@ -3,63 +3,62 @@ Testing several recent ASR systems against multilingual regional news broadcasts
 
 ## Languages and stations tested
 
-|Language | Station |
-|:---------|:---------|
-| Assamese | Dibrugarh |
-|          | Guwahati |
-| Bengali  | Agartala |
-|          | Kolkata |
-|          | Silchar |
-| Bhojpuri | Gorakhpur |
-| Bhutia   | Gangtok |
-| Chhattisgarhi | Raipur |
-| Dogri        | Jammu |
-| English      | Itanagar |
-|              | Kohima |
-|              | Shillong |
-| Gojri        | Jammu |
-| Gujarati     | Ahmedabad |
-|              | Bhuj |
-| Hindi | Bhopal |
-|       | C S Nagar |
-|       | Chandigarh |
-|       | Dehradun |
-|       | Gorakhpur |
-|       | Itanagar |
-|       | Jaipur |
-|       | Lucknow |
-|       | Patna |
-|       | Raipur |
-|       | Ranchi |
-|       | Shimla |
-| Kannada | Bengaluru |
-|         | Dharwad |
-| Konkani | Panaji |
-| Lepcha  | Gangtok |
-| Maithili | Patna |
-| Malayalam | Calicut |
-|           | Thiruvananthapuram |
-| Manipuri | Imphal |
-| Marathi | C S Nagar |
-|         | Mumbai |
-|         | Nagpur |
-|         | Pune |
-| Mizo   | Aizawl |
-| Nepali | Gangtok |
-|        | Kurseong |
-| Odia | Cuttack |
-| Punjabi | Jalandhar |
-| Rajasthani | Jaipur |
-| Sambalpuri | Sambalpur |
-| Tamil | Chennai |
-|       | Pudducherry |
-|       | Tiruchirapalli |
-| Telugu | Hyderabad |
-|        | Vijayawada |
-|        | Visakhapatnam |
-| Urdu | C S Nagar |
-|      | Hyderabad |
-|      | Srinagar |
+| No. | Language      | Station            | Duration (hrs) | Total (hrs/lg) |
+| --- | :------------ | :----------------- | -------------- | -------------- |
+| 1   | Assamese      | Dibrugarh          |                |                |
+|     |               | Guwahati           |                |                |
+| 2   | Bengali       | Agartala           |                |                |
+|     |               | Kolkata            |                |                |
+|     |               | Silchar            |                |                |
+| 3   | Bhojpuri      | Gorakhpur          |                |                |
+| 4   | Bhutia        | Gangtok            |                |                |
+| 5   | Chhattisgarhi | Raipur             |                |                |
+| 6   | Dogri         | Jammu              |                |                |
+| 7   | English       | Itanagar           |                |                |
+|     |               | Kohima             |                |                |
+|     |               | Shillong           |                |                |
+| 8   | Gojri         | Jammu              |                |                |
+| 9   | Gujarati      | Ahmedabad          |                |                |
+|     |               | Bhuj               |                |                |
+| 10  | Hindi         | Bhopal             |                |                |
+|     |               | Chandigarh         |                |                |
+|     |               | Dehradun           |                |                |
+|     |               | Gorakhpur          |                |                |
+|     |               | Itanagar           |                |                |
+|     |               | Jaipur             |                |                |
+|     |               | Lucknow            |                |                |
+|     |               | Patna              |                |                |
+|     |               | Raipur             |                |                |
+|     |               | Ranchi             |                |                |
+|     |               | Shimla             |                |                |
+| 11  | Kannada       | Bengaluru          |                |                |
+|     |               | Dharwad            |                |                |
+| 12  | Konkani       | Panaji             |                |                |
+| 13  | Lepcha        | Gangtok            |                |                |
+| 14  | Maithili      | Patna              |                |                |
+| 15  | Malayalam     | Calicut            |                |                |
+|     |               | Thiruvananthapuram |                |                |
+| 16  | Manipuri      | Imphal             |                |                |
+| 17  | Marathi       | C S Nagar          |                |                |
+|     |               | Mumbai             |                |                |
+|     |               | Nagpur             |                |                |
+|     |               | Pune               |                |                |
+| 18  | Mizo          | Aizawl             |                |                |
+| 19  | Nepali        | Gangtok            |                |                |
+|     |               | Kurseong           |                |                |
+| 20  | Odia          | Cuttack            |                |                |
+| 21  | Punjabi       | Jalandhar          |                |                |
+| 22  | Rajasthani    | Jaipur             |                |                |
+| 23  | Sambalpuri    | Sambalpur          |                |                |
+| 24  | Tamil         | Chennai            |                |                |
+|     |               | Pudducherry        |                |                |
+|     |               | Tiruchirapalli     |                |                |
+| 25  | Telugu        | Hyderabad          |                |                |
+|     |               | Vijayawada         |                |                |
+|     |               | Visakhapatnam      |                |                |
+| 26  | Urdu          | C S Nagar          |                |                |
+|     |               | Hyderabad          |                |                |
+|     |               | Srinagar           |                |                |
 
 
 ## Models
