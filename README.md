@@ -1,4 +1,8 @@
-# 25-R-CMP_akashvani-ASR
+# Transformer-based automatic speech recognition performance on Indian news bulletins in 26 languages
+
+Charles Redmon  
+2025-08-12  
+
 Testing several recent ASR systems against multilingual regional news broadcasts from All India Radio
 
 ## Languages and stations tested
